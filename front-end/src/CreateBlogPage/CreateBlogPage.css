@@ -1,0 +1,21 @@
+h1 {
+    font-size: 1.5em !important;
+    padding: 2em;
+}
+
+.errorMsg{
+    font-size: large;
+    margin-top: 1em !important;
+}
+
+#blogTitleSection{
+    font-size: 1.3em !important;
+}
+
+.uploadImage-section {
+    margin-left: 3em !important;
+}
+
+#blogPublisherSection{
+
+}

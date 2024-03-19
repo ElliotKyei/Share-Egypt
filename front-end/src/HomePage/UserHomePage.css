@@ -1,0 +1,96 @@
+.homepageBody {
+    background-color: rgba(0, 0, 0, 0.05);
+}
+
+.header-section{
+    height: 50vh;
+    width: 100vw;
+    display: flex;
+    justify-content: flex-start;
+    align-content: flex-start;
+    margin-top: 3em !important;
+    padding-left: 2.5em;
+    padding-top: 5em;
+/*     background-color: #ff7e7e; */
+
+}
+
+.headerContent-section h3 {
+    color: black;
+    font-weight: 900;
+
+}
+
+.sidebar {
+    display: flex;
+    flex-wrap: nowrap;
+    height: 35vw;
+    width: 20vw !important;
+    margin-top: -10em !important;
+    margin-left: 25em;
+    overflow: hidden;
+    background-color: white;
+    border: 1px solid rgba(0, 0, 0, 0.2)
+}
+
+.mainSection {
+    height: max-content;
+    width: 30vw !important;
+    display: flex;
+    flex-wrap: wrap;
+
+    justify-content: center;
+    align-content: flex-start;
+
+    margin-right: 0;
+    margin-left: 20em;
+    margin-top: -18em !important;
+    position: relative;
+}
+
+.mainSection-content {
+    color: black;
+}
+
+.blogPost {
+    padding-bottom: 2em;
+    margin-bottom: 3em;
+    border-top: 1px solid rgba(0, 0, 0, 0.2);
+    background-color: white;
+}
+
+.blogCharityTitle {
+    width: auto;
+    background-color:  #1e183f;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+    padding: 1em;
+    margin-bottom: 2em;
+}
+.blogTitle {
+    margin-bottom: -3em;
+}
+
+.blogTitle h4 {
+    padding-top: 2em !important;
+    font-size: 2em;
+}
+
+
+
+.blogDetails p {
+color: gray;
+font-size: 1em;
+margin-bottom: 0.5em;
+margin-left: -1.5em;
+}
+
+.blogPic {
+    margin-bottom: 2em;
+    overflow: hidden;
+}
+
+.blogPic img {
+    height: 600px;
+    width: 900px;
+    overflow: hidden;
+}

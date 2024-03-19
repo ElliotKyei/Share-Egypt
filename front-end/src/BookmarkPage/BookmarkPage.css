@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+#bookmark-title{
+    font-size: 2em !important;
+    text-align: center;
+}
+
+.charityContainer {
+    width: 90vw;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 3.5em;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    margin-bottom: 4em !important;
+}
+
+.charity {
+    text-align: center;
+  height: min-content;
+  width: 25% !important;
+  padding: 1em;
+}

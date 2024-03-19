@@ -1,0 +1,53 @@
+.register-container{
+    position: absolute;
+    transform: translate(50%, 16%);
+    padding: 3em !important;
+    margin-top: -4em;
+    max-width: 50%;
+    box-shadow: 0px 14px 80px rgba(34, 35, 58, 0.2);
+}
+
+.body {
+    background-color: darkgrey;
+}
+
+.register-title{
+    text-align: center;
+    margin-bottom: 1em;
+    font-size: 1.8em;
+}
+.register-label{
+    text-align: center;
+}
+
+.register-input{
+    padding: 1.3em !important;
+    margin-bottom: 1.3em !important;
+}
+
+.errorMsg{
+    margin-top: -1em !important;
+}
+
+.submit-button {
+    padding: 1em !important;
+    text-align: center !important;
+    background-color: #ff7e7e !important;
+    border-color: #ffb4b4 !important;
+    color: #fff !important;
+    margin-bottom: 1em !important;
+}
+
+.signup{
+    margin-top: 1em;
+    text-align: right;
+    color: black;
+    text-decoration: underline;
+    font-size: large;
+}
+.button-container{
+    padding-top: 1em;
+    text-align: center !important;
+    vertical-align: middle !important;
+    align-items: center !important;
+}

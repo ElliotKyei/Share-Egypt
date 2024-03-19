@@ -1,0 +1,44 @@
+.footer {
+    width: 100vw;
+    height: 50vh;
+
+    display: flex;
+    justify-content: flex-start;
+    align-content: center;
+    align-items: center;
+    text-align: center;
+
+    padding: 3em;
+    font-size: 1.2em;
+
+    background-color: #ff7e7e !important;
+    color: white;
+}
+
+.footer h1 {
+    font-size: 2.5em !important;
+    font-weight: 900;
+}
+
+.footer h2 {
+    position: relative;
+    margin-bottom: 1.5em;
+}
+
+.footer-title {
+    position: relative;
+    width: min-content;
+    margin-right: -4em;
+    margin-left: -6em;
+}
+
+.footer-navigate {
+    height: min-content;
+}
+
+.footer-socials {
+    position: relative;
+    margin-left: 3em;
+    text-align: center;
+    height: min-content;
+}
