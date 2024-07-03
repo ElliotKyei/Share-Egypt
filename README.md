@@ -2,8 +2,6 @@
 
 A charity listing platform for Egypt.
 
-# Home Page
-
 ![ShareEgypt SS-1](https://github.com/ElliotKyei/Share-Egypt/assets/73500548/b2c65833-0080-4427-a69a-f443eecca697)
 
 ![ShareEgypt SS-2](https://github.com/ElliotKyei/Share-Egypt/assets/73500548/222012fb-3022-450a-857c-275c98e983de)
